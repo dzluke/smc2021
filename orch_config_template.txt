@@ -1,0 +1,30 @@
+pop_size			300
+max_epochs			300
+
+pursuit				0
+
+xover_rate			0.8
+mutation_rate		0.01
+
+sparsity			0
+
+positive_penalization .5
+negative_penalization 10
+
+hysteresis 0
+
+regularization 0
+
+segmentation        flux
+partials_window		32768
+partials_filtering	.1
+
+extra_pitches		N
+
+onsets_threshold 	0.1
+onsets_timegate		60000
+
+export_solutions	0
+t60					2.8
+dry_wet				1 0
+
