@@ -1,7 +1,11 @@
-# Paper Title
+# Source Separation Methods for Computer-Assisted Orchestration
 
-## to run our code
+## To listen to examples
 
-Download TinySOL or OrchideaSOL from http://www.orch-idea.org/
+Go to https://dzluke.github.io/smc2021/
+
+## To run our code
+
+Download OrchideaSOL from http://www.orch-idea.org/
 
 To run, edit the path variables at the top of `pipeline.py` and then run `pipeline.py`
