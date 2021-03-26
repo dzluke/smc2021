@@ -22,18 +22,19 @@ th, td {
 </p>
 
 <p>
-
-    Below is a selection of targets and orchestrations. The full target orchestration is the result of orchestrating
-    the target without performing any separation. The ground truth orchestration takes the four sources of the target
-    and independently orchestrates them, representing an orchestration that could occur if source separation is
-    performed perfectly.
-</p>
-
-<p>
-    Our main idea is to apply source separation methods on targets to create four sub-targets, then independently
+    We apply source separation methods on targets to create four sub-targets, then independently
     orchestrate the four sub-targets with different orchestras, and finally combine the orchestrations to play
     simultaneously. We then compare the separated solution to the orchestration of the same target with no separation
     performed.
+
+</p>
+
+<p>
+    Below is a selection of targets and orchestrations. The first audio file is the target sound we are orchestrating.
+    The full target orchestration is the result of orchestrating the target without performing any separation.
+    Then we have the orchestration performed after applying each source separation method.
+    Finally, the ground truth orchestration takes the four sources of the target and independently orchestrates them,
+    representing an orchestration that could occur if source separation is performed perfectly.
 </p>
 
 <table style="width:100%">
