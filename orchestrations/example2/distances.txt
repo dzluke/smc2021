@@ -1,0 +1,7 @@
+full target distance: [28.414281928022344]
+ground truth distance: [20.19482833462951]
+TDCN++ distance: [27.64213731879496]
+TDCN distance: [56.57245257328607]
+Demucs distance: [16.832078587068565]
+OpenUnmix distance: [39.876141738636505]
+NMF distance: [46.89608044637435]
